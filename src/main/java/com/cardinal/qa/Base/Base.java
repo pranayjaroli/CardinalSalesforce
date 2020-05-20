@@ -23,7 +23,7 @@ public class Base
     
     
     
-    //constructor
+    //constructor of parent class
     public Base()
     {
     	try
